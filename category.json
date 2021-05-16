@@ -1,0 +1,97 @@
+{
+    "age":
+    {
+        "current": 34,
+        "retirement": 41 
+    },
+
+    "income":
+    {
+        "monthly":
+        {
+            "salary": 150000.00            
+        },
+
+        "other":
+        {
+            "head":
+            {
+                "amount": 0.00,
+                "pay_frequency": 0
+            }
+        }
+    },
+
+    "expense":
+    {
+        "monthly":
+        {
+            "rent": 14000.00,
+            "maintainence": 4500.00,
+            "electricity": 3000,
+            "maid": 3000,
+            "petrol": 6000,
+            "home_exp": 30000,
+            "home_loan": 26000, 
+            "car_loan": 12000,
+            "gas": 1000,
+            "misc": 3000,
+            "vaccation": 10000
+        },
+
+        "other":
+        {
+            "life_insurance_1":
+            {
+                "amount": 3500,
+                "pay_frequency": 4  
+            },
+            "life_insurance_2":
+            {
+                "amount": 6500,
+                "pay_frequency": 4  
+            },
+            "life_insurance_3":
+            {
+                "amount": 14000,
+                "pay_frequency": 1  
+            },
+            "car_insurance":
+            {
+                "amount": 14000,
+                "pay_frequency": 1  
+            },
+            "school_fees":
+            {
+                "amount": 400000.00,
+                "pay_frequency": 1  
+            }
+        }
+    },
+
+    "increment":
+    {
+        "yearly":
+        {
+            "percentage": 10
+        },
+
+        "promotion":
+        {
+            "percentage": 25,
+            "interval": 4
+        },
+
+        "salary_cap" : 700000.00
+    }, 
+
+    "inflation":
+    {
+        "percentage": 4
+    },
+
+    "intrest_rate":
+    {
+        "percentage": 5.4
+    }
+}
